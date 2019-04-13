@@ -1,0 +1,12 @@
+mysqlclient==1.4.2.post1colorama==0.4.1
+coverage==4.0.3
+Django==1.9
+django-cors-headers==1.1.0
+django-nose==1.4
+djangorestframework==3.3.0
+mysql-connector-python==8.0.15
+mysqlclient==1.4.2.post1
+nose==1.3.7
+pinocchio==0.4.2
+protobuf==3.7.1
+six==1.12.0
